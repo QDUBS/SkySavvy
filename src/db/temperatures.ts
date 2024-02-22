@@ -1,0 +1,17 @@
+export const allCities: { name: string; country: string; temperature: number }[] = [
+  { name: "Tokyo", country: "Japan", temperature: 20 },
+  { name: "Delhi", country: "India", temperature: 30 },
+  { name: "Shanghai", country: "China", temperature: 15 },
+  { name: "São Paulo", country: "Brazil", temperature: 25 },
+  { name: "Mumbai", country: "India", temperature: 28 },
+  { name: "Mexico City", country: "Mexico", temperature: 22 },
+  { name: "Beijing", country: "China", temperature: 10 },
+  { name: "Osaka", country: "Japan", temperature: 18 },
+  { name: "Cairo", country: "Egypt", temperature: 27 },
+  { name: "New York", country: "USA", temperature: 5 },
+  { name: "Dhaka", country: "Bangladesh", temperature: 32 },
+  { name: "Karachi", country: "Pakistan", temperature: 35 },
+  { name: "Buenos Aires", country: "Argentina", temperature: 22 },
+  { name: "Istanbul", country: "Turkey", temperature: 10 },
+  { name: "Chongqing", country: "China", temperature: 12 },
+];
